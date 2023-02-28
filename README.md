@@ -7,6 +7,7 @@ Dataset 1: Text compiled from media sources 2016-2022
 [Media_HW_data (1).xlsx](https://github.com/carolinamarghidan/AGILE_MZ_Heat/files/10849347/Media_HW_data.1.xlsx)
 
 Dataset 2: Weather station data
+
 Daily maximum temperatures were obtained from the National Climatic Data Center’s (NCDC) daily summaries (GHCN-Daily) archive for 2016 to 10/05/2022. 
 
 This data is openly available through: 
