@@ -13,8 +13,8 @@ This data is openly available through:
 https://www.ncei.noaa.gov/access/search/datasearch/daily-summaries). 
 
 The parameters were filled in as follows:
-•	What: “maximum temperature” 
-•	Where: “Mozambique”
+- What: “maximum temperature” 
+- Where: “Mozambique”
 
 This outputs 17 weather stations, from which 11 were selected to cover each province across Mozambique and which included records available up to May 2022. 
 The locations of the selected stations were: Maputo, Xai-Xai, Panda, Inhambane, Chimoio, Beira, Tete, Quelimane, Nampula, Lichinga, and Pemba. 
