@@ -20,8 +20,5 @@ The parameters were filled in as follows:
 This outputs 17 weather stations, from which 11 were selected to cover each province across Mozambique and which included records available up to May 2022. 
 The locations of the selected stations were: Maputo, Xai-Xai, Panda, Inhambane, Chimoio, Beira, Tete, Quelimane, Nampula, Lichinga, and Pemba. 
 
-Dataset 3: ArcGIS project file (to create Fig. 2)
-The ArcGIS project file used to visualize the number and percentage of heat alerts in media reports across Mozambique (Fig. 2): 
-[X] 
 
 
