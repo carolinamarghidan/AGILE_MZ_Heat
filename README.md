@@ -4,7 +4,7 @@ This repository was created to list all datasets used for the conference paper f
 "Extreme heat alerts and impacts across Mozambique 2016 - 2022: gathering evidence from media articles" 
 
 Dataset 1: Text compiled from media sources 2016-2022 
-[Media_HW_data (1).xlsx](https://github.com/carolinamarghidan/AGILE_MZ_Heat/files/10849347/Media_HW_data.1.xlsx)
+[Media_HW_data.1.xlsx](https://github.com/carolinamarghidan/AGILE_MZ_Heat/files/10943331/Media_HW_data.1.xlsx)
 
 Dataset 2: Weather station data
 
