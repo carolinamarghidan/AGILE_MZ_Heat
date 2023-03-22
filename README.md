@@ -4,6 +4,7 @@ This repository was created to list all datasets used for the conference paper f
 "Extreme heat alerts and impacts across Mozambique 2016 - 2022: gathering evidence from media articles" 
 
 Individual excel sheets for the creation of each figure are listed below, including a #readme tab with data transformation steps: 
+
 Figure 2: Heat alerts over time
 [Hwalert_figure2.xlsx](https://github.com/carolinamarghidan/AGILE_MZ_Heat/files/11041402/Hwalert_figure2.xlsx)
 
