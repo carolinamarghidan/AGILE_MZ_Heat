@@ -3,6 +3,16 @@
 This repository was created to list all datasets used for the conference paper for AGILE 2023: 
 "Extreme heat alerts and impacts across Mozambique 2016 - 2022: gathering evidence from media articles" 
 
+Figure 2: Heat alerts over time
+[Hwalert_figure2.xlsx](https://github.com/carolinamarghidan/AGILE_MZ_Heat/files/11038136/Hwalert_figure2.xlsx)
+
+Figure 1 & 3: Heat alerts per province 
+[Hwalert_figure1_3.xlsx](https://github.com/carolinamarghidan/AGILE_MZ_Heat/files/11038895/Hwalert_figure1_3.xlsx)
+
+Figure 4: weather stations Maputo and Cabo Delgado
+[agile_fig4.xlsx](https://github.com/carolinamarghidan/AGILE_MZ_Heat/files/11038898/agile_fig4.xlsx)
+
+
 For Mozambique administrative boundaries:
 https://data.humdata.org/dataset/cod-ab-moz 
 
